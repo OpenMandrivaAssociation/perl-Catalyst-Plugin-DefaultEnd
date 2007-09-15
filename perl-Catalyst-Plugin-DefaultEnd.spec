@@ -3,7 +3,7 @@
 %define	modprefix Catalyst
 
 %define version	0.06
-%define	rel	2
+%define	rel	3
 %define release	%mkrel %{rel}
 
 Summary:	Sensible default end action for Catalyst
