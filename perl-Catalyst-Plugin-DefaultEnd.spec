@@ -19,6 +19,7 @@ BuildRequires:	perl-devel
 %endif
 BuildRequires:	perl(Catalyst) >= 5.20
 BuildArch:	noarch
+Buildroot:	%_tmppath/%name-buildroot
 
 %description
 This action implements a sensible default end action, which will forward to the
