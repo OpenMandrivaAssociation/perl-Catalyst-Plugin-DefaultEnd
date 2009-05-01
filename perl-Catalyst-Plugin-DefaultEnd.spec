@@ -2,8 +2,8 @@
 %define name	perl-%module
 %define	modprefix Catalyst
 
-%define version	0.06
-%define	rel	3
+%define version	0.07
+%define	rel	1
 %define release	%mkrel %{rel}
 
 Summary:	Sensible default end action for Catalyst
