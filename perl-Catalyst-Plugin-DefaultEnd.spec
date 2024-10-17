@@ -8,7 +8,7 @@ Release:	4
 Summary:	Sensible default end action for Catalyst
 License:	Artistic/GPL
 Group:		Development/Perl
-URL:		http://search.cpan.org/dist/%{upstream_name}/
+URL:		https://search.cpan.org/dist/%{upstream_name}/
 Source0:    ftp://ftp.perl.org/pub/CPAN/modules/by-module/Catalyst/%{upstream_name}-%{upstream_version}.tar.gz
 BuildRequires:	perl(Catalyst) >= 5.20
 BuildRequires:	perl(Module::Build)
